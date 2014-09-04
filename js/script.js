@@ -1,4 +1,7 @@
-// Model the Moon, Lander and Rover as separate objects
+//Create the Moon, Lander and Rover as separate objects using whatever approach you feel comfortable using.
+//Give the objects the methods to perform the tasks outlined below.
+
+
 // The Lander can land on the Moon
 // The Lander will land in a random position on the Moon
 // The Rover can disembark the Lander
