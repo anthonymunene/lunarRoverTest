@@ -1,0 +1,23 @@
+#moon {
+	position: relative;
+	width: 300px;
+	height: 300px;
+	border: solid 1px #ccc;
+	background: #efefef;
+}
+
+#lander {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	background: #000;
+}
+
+#rover {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 5px;
+	height: 5px;
+	background: #f00;
+}
